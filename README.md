@@ -40,9 +40,9 @@ The visualizations offer valuable insights into the increasing adoption of EVs o
 
 
 # Top 5 Business Improvement Strategies (Aligned with KPIs)
-1️⃣  Increase EV Adoption & Market Size (Total Vehicles KPI) – Scale up production, expand dealership reach, and enhance financing options to boost overall EV sales.
-2️⃣ Enhance Battery Performance & Range (Average Electric Range KPI) – Invest in advanced battery technology, improve energy efficiency, and optimize vehicle design to increase average electric range.
-3️⃣ Boost BEV Market Share (Total BEV Vehicles & % of BEVs KPI) – Focus on BEV expansion by improving charging infrastructure, lowering costs, and promoting long-term savings benefits.
-4️⃣ Strengthen PHEV Positioning (Total PHEV Vehicles & % of PHEVs KPI) – Position PHEVs as a bridge to full electrification by enhancing fuel efficiency and targeting regions with limited charging infrastructure.
-5️⃣ Optimize Government Incentives & Policy Compliance (Total Vehicles by CAFV Eligibility KPI) – Ensure maximum CAFV eligibility, educate consumers on incentives, and collaborate with policymakers to extend financial benefits.
+1 Increase EV Adoption & Market Size (Total Vehicles KPI) – Scale up production, expand dealership reach, and enhance financing options to boost overall EV sales.
+2 Enhance Battery Performance & Range (Average Electric Range KPI) – Invest in advanced battery technology, improve energy efficiency, and optimize vehicle design to increase average electric range.
+3️ Boost BEV Market Share (Total BEV Vehicles & % of BEVs KPI) – Focus on BEV expansion by improving charging infrastructure, lowering costs, and promoting long-term savings benefits.
+4️ Strengthen PHEV Positioning (Total PHEV Vehicles & % of PHEVs KPI) – Position PHEVs as a bridge to full electrification by enhancing fuel efficiency and targeting regions with limited charging infrastructure.
+5️ Optimize Government Incentives & Policy Compliance (Total Vehicles by CAFV Eligibility KPI) – Ensure maximum CAFV eligibility, educate consumers on incentives, and collaborate with policymakers to extend financial benefits.
 
